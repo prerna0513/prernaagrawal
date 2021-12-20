@@ -4,9 +4,5 @@
 -  Apart from that I love writing articles and blogging.
 -  Prerna possess hands on experience in leading Salesforce CRM & Dell Boomi projects from developer and management perspective with different clients in travel, education and banking domain, life sciences. 
 
-## Context
 
--  
-
-## Failure Logs
 
