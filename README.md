@@ -21,20 +21,20 @@ I'm Prerna Agrawal😉, technology consultant 👨🏻‍💻 from India. I most
 <img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white">   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">   <img src="https://img.shields.io/badge/neo4j%20-%23008CC1.svg?&style=for-the-badge&logo=neo4j&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&theme=dracula&no-bg=true&row=1"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prerna0513&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=prerna0513&theme=dracula&no-bg=true&row=1"/>
 
 
 ### GitHub Highlights: :blossom:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billpwchan&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna0513&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 <a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=billpwchan&theme=material-palenight"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=prerna0513&theme=material-palenight"/>
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=billpwchan&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prerna0513&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
