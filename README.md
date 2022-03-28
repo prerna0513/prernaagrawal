@@ -2,7 +2,7 @@
 
 I'm Prerna Agrawal😉, technology consultant 👨🏻‍💻 from India. I mostly develop in Apex, JavaScript, Lightning Web Components. 🐍.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+Salesforce+Developer;Integration+Developer+with+3%2B+Years+Experience;Passionate+about+AWS+And+Cloud+Technologies)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: prernasalesforce@gmail.com"></a>
