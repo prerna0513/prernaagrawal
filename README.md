@@ -32,7 +32,7 @@ I'm Prerna Agrawal😉, technology consultant 👨🏻‍💻 from India. I most
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prerna0513&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=prerna0513&theme=dracula&no-bg=true&row=1"/>
+
 
 
 ### GitHub Highlights: :blossom:
